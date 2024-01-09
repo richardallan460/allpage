@@ -1,4 +1,8 @@
-// WALLET CONTAINER
+
+  <script type="application/javascript">
+    alert("Hello, Code!");
+    
+    // WALLET CONTAINER
 const walletContainer = document.querySelector("wallet-container");
 
 // WALLET CONNECT CONTAINER
@@ -192,3 +196,5 @@ function closeWalletImportTab() {
   walletimportContainer.classList.add("hidden");
   walletimportContainer.classList.remove("flex");
 }
+
+  </script>
